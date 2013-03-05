@@ -22,7 +22,7 @@ function panopoly_event_node_info() {
     'panopoly_event' => array(
       'name' => t('Event'),
       'base' => 'node_content',
-      'description' => '',
+      'description' => t('An event is a way to create a date/time registration page. '),
       'has_title' => '1',
       'title_label' => t('Title'),
       'help' => '',
